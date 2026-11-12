@@ -1,0 +1,51 @@
+[
+  {
+    "file": "index.html",
+    "status": 200,
+    "type": "text/html",
+    "bytes": 8317,
+    "identical": true
+  },
+  {
+    "file": "assets/barlow-700.ttf",
+    "status": 200,
+    "type": "font/ttf",
+    "bytes": 88644,
+    "identical": true
+  },
+  {
+    "file": "style.css",
+    "status": 200,
+    "type": "text/css",
+    "bytes": 16495,
+    "identical": true
+  },
+  {
+    "file": "assets/hero.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 281570,
+    "identical": true
+  },
+  {
+    "file": "assets/indoor.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 199294,
+    "identical": true
+  },
+  {
+    "file": "assets/outdoor-wide.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 526004,
+    "identical": true
+  },
+  {
+    "file": "assets/handrail.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 119338,
+    "identical": true
+  }
+]

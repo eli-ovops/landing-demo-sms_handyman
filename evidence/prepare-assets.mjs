@@ -1,0 +1,7 @@
+import fs from 'node:fs';import crypto from 'node:crypto';import {createRequire} from 'node:module';
+const require=createRequire('/Users/USER/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/package.json');const sharp=require('sharp');
+const root='/Volumes/EXTERNAL/海外落地页/client_sms_handyman';
+const originals=['exec-9b05e37b-7382-4376-bbef-d9493e9be478.png','exec-7f4892fe-cb15-4d4e-baf4-de308ec32679.png','exec-f354edb6-19ed-48ce-b506-84ce251b37fd.png','exec-db89eab0-7a19-4c81-8067-739c629d8514.png'];
+const ids=['hero','indoor','outdoor','handrail'];const hash=p=>crypto.createHash('sha256').update(fs.readFileSync(p)).digest('hex');const out=[];
+for(let i=0;i<4;i++){const original='/Users/USER/.codex/generated_images/01a0793a-2eb8-7a22-a908-0aec95a59591/'+originals[i];const target=root+'/demo/assets/'+ids[i]+'.webp';await sharp(original).webp({quality:88}).toFile(target);out.push({id:ids[i],original,originalSha256:hash(original),path:target,sha256:hash(target),processing:'Format compression only; no cropping or semantic edits',authenticity:'CONCEPT',source:'Built-in imagegen original generation, 2026-09-07',permissionEvidence:'User authorized local static demo on 2026-09-07; original generated non-identifiable service illustration',restrictions:'Not evidence of customer completed work; no customer asset ownership or final transfer claim'});}
+fs.writeFileSync(root+'/docs/GENERATED_ASSETS.json',JSON.stringify(out,null,2));console.log(out.map(x=>({id:x.id,bytes:fs.statSync(x.path).size})));

@@ -1,0 +1,56 @@
+[
+  {
+    "path": "/Users/USER/.codex/AGENTS.md",
+    "sha256": "e5d51f40c7e3a76cb214288c506539dbdcb4c1645249bb4bd18b92ab9da323d3",
+    "mtime": 1788741535.2709372,
+    "read": "FULL in active task before code"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/PROJECT_CORE.md",
+    "sha256": "c6da4ef68fa90426304810b6770b2cc8dcf13f6ee1bf1e051e1cab681f04248e",
+    "mtime": 1788654681.2311392,
+    "read": "FULL in active task before code"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/REPLACEMENT_READY_DEMO_GATE_SOP.md",
+    "sha256": "25b6bd7a33f451ca303ba63fabb112c3d87118662e4d49a897ebc85e1c2b6ac3",
+    "mtime": 1788619705.1262283,
+    "read": "FULL in active task before code"
+  },
+  {
+    "path": "/Users/USER/.codex/skills/website-delivery-sop/SKILL.md",
+    "sha256": "d5d5a27b513323458f0355c2e0f041779effddd62c634a24806517d58c21b0c3",
+    "mtime": 1784245102.537662,
+    "read": "FULL in active task before code"
+  },
+  {
+    "path": "/Users/USER/.codex/skills/website-delivery-sop/references/DS-002B_website_delivery_sop_v2.md",
+    "sha256": "5b70133e7a155a713c130d07d883afffbd1f57eaa7bfc7c2e2c3dfc9f9bb926a",
+    "mtime": 1786262452.292176,
+    "read": "FULL in active task before code"
+  },
+  {
+    "path": "/Users/USER/.codex/skills/finesse-ui/SKILL.md",
+    "sha256": "2a054f99e76d5e28568bb434658597e8dc8f2d3519c9d0f5812f6cb5dc8c028f",
+    "mtime": 1788741736.8427424,
+    "read": "FULL in active task before code"
+  },
+  {
+    "path": "/Users/USER/.agents/skills/design-taste-frontend/SKILL.md",
+    "sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+    "mtime": 1784608122.3687139,
+    "read": "FULL in active task before code"
+  },
+  {
+    "path": "/Users/USER/.agents/skills/media-use/SKILL.md",
+    "sha256": "1301ea7cb53a0a44f5c7d62c34cba7e00b9e69b31bed57dc8d645417cea0da7c",
+    "mtime": 1786761646.9588456,
+    "read": "FULL in active task before code"
+  },
+  {
+    "path": "/Users/USER/.codex/skills/.system/imagegen/SKILL.md",
+    "sha256": "681ddb4ad6d06a2acc78a3535b583f8d0c1ea800ecda3d56370d3310fd2cd4ba",
+    "mtime": 1788441966.5968828,
+    "read": "FULL in active task before code"
+  }
+]

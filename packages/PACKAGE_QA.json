@@ -1,0 +1,30 @@
+[
+  {
+    "viewport": "desktop",
+    "visualIdentical": false,
+    "domIdentical": true,
+    "errors": [],
+    "overflow": false,
+    "pixelComparison": {
+      "maxChannelDifference": 4,
+      "meanChannelDifference": 0.008577064418504107,
+      "dimensionsMatch": true
+    },
+    "visualEquivalent": true,
+    "note": "Only tiny image rasterisation variance (max4/255,mean0.0086/255); source files byte-identical, DOM identical"
+  },
+  {
+    "viewport": "mobile",
+    "visualIdentical": true,
+    "domIdentical": true,
+    "errors": [],
+    "overflow": false,
+    "pixelComparison": {
+      "maxChannelDifference": 0,
+      "meanChannelDifference": 0,
+      "dimensionsMatch": true
+    },
+    "visualEquivalent": true,
+    "note": "Pixel-identical"
+  }
+]

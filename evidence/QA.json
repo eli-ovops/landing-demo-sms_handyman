@@ -1,0 +1,344 @@
+{
+  "desktop": {
+    "overflow": false,
+    "images": [
+      {
+        "src": "assets/hero.webp",
+        "loaded": true
+      },
+      {
+        "src": "assets/indoor.webp",
+        "loaded": true
+      },
+      {
+        "src": "assets/outdoor-wide.webp",
+        "loaded": true
+      },
+      {
+        "src": "assets/handrail.webp",
+        "loaded": true
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to content",
+        "href": "#main"
+      },
+      {
+        "text": "S M S.HANDYMANSERVICES",
+        "href": "#main"
+      },
+      {
+        "text": "What needs doing?",
+        "href": "#services"
+      },
+      {
+        "text": "Customer feedback",
+        "href": "#reviews"
+      },
+      {
+        "text": "↗ 07725 999370",
+        "href": "tel:+447725999370"
+      },
+      {
+        "text": "Call Steve about your job ↗",
+        "href": "tel:+447725999370"
+      },
+      {
+        "text": "Explore the services ↓",
+        "href": "#services"
+      },
+      {
+        "text": "20customer reviews onDerbyshire Trusted Trader↓",
+        "href": "#reviews"
+      },
+      {
+        "text": "INDOOR JOBS ↓",
+        "href": "#indoor"
+      },
+      {
+        "text": "OUTDOOR PROJECTS ↓",
+        "href": "#outdoor"
+      },
+      {
+        "text": "WHAT CUSTOMERS SAY ↓",
+        "href": "#reviews"
+      },
+      {
+        "text": "Read all customer feedback ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418"
+      },
+      {
+        "text": "07725 999370 ↗",
+        "href": "tel:+447725999370"
+      },
+      {
+        "text": "[REDACTED_EMAIL] ↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      },
+      {
+        "text": "Stephen Shipp on LinkedIn ↗",
+        "href": "https://uk.linkedin.com/in/stephen-shipp-76154043"
+      },
+      {
+        "text": "See Grassmoor on the map ↗",
+        "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield"
+      },
+      {
+        "text": "Back to top ↑",
+        "href": "#main"
+      }
+    ],
+    "h1": {
+      "x": 80,
+      "y": 222.5,
+      "width": 615,
+      "height": 198.75,
+      "top": 222.5,
+      "right": 695,
+      "bottom": 421.25,
+      "left": 80
+    },
+    "heroCTA": {
+      "x": 80,
+      "y": 559.390625,
+      "width": 277.03125,
+      "height": 56,
+      "top": 559.390625,
+      "right": 357.03125,
+      "bottom": 615.390625,
+      "left": 80
+    },
+    "errors": [],
+    "anchorReached": true,
+    "backTopReached": true
+  },
+  "mobile": {
+    "overflow": false,
+    "images": [
+      {
+        "src": "assets/hero.webp",
+        "loaded": true
+      },
+      {
+        "src": "assets/indoor.webp",
+        "loaded": true
+      },
+      {
+        "src": "assets/outdoor-wide.webp",
+        "loaded": true
+      },
+      {
+        "src": "assets/handrail.webp",
+        "loaded": true
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to content",
+        "href": "#main"
+      },
+      {
+        "text": "S M S.HANDYMANSERVICES",
+        "href": "#main"
+      },
+      {
+        "text": "What needs doing?",
+        "href": "#services"
+      },
+      {
+        "text": "Customer feedback",
+        "href": "#reviews"
+      },
+      {
+        "text": "↗ 07725 999370",
+        "href": "tel:+447725999370"
+      },
+      {
+        "text": "Call Steve about your job ↗",
+        "href": "tel:+447725999370"
+      },
+      {
+        "text": "Explore the services ↓",
+        "href": "#services"
+      },
+      {
+        "text": "20customer reviews onDerbyshire Trusted Trader↓",
+        "href": "#reviews"
+      },
+      {
+        "text": "INDOOR JOBS ↓",
+        "href": "#indoor"
+      },
+      {
+        "text": "OUTDOOR PROJECTS ↓",
+        "href": "#outdoor"
+      },
+      {
+        "text": "WHAT CUSTOMERS SAY ↓",
+        "href": "#reviews"
+      },
+      {
+        "text": "Read all customer feedback ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418"
+      },
+      {
+        "text": "07725 999370 ↗",
+        "href": "tel:+447725999370"
+      },
+      {
+        "text": "[REDACTED_EMAIL] ↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      },
+      {
+        "text": "Stephen Shipp on LinkedIn ↗",
+        "href": "https://uk.linkedin.com/in/stephen-shipp-76154043"
+      },
+      {
+        "text": "See Grassmoor on the map ↗",
+        "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield"
+      },
+      {
+        "text": "Back to top ↑",
+        "href": "#main"
+      }
+    ],
+    "h1": {
+      "x": 20,
+      "y": 146,
+      "width": 350,
+      "height": 131.8125,
+      "top": 146,
+      "right": 370,
+      "bottom": 277.8125,
+      "left": 20
+    },
+    "heroCTA": {
+      "x": 20,
+      "y": 395.0625,
+      "width": 350,
+      "height": 55,
+      "top": 395.0625,
+      "right": 370,
+      "bottom": 450.0625,
+      "left": 20
+    },
+    "errors": [],
+    "anchorReached": true,
+    "backTopReached": true
+  },
+  "mobile-dark": {
+    "overflow": false,
+    "images": [
+      {
+        "src": "assets/hero.webp",
+        "loaded": true
+      },
+      {
+        "src": "assets/indoor.webp",
+        "loaded": true
+      },
+      {
+        "src": "assets/outdoor-wide.webp",
+        "loaded": true
+      },
+      {
+        "src": "assets/handrail.webp",
+        "loaded": true
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to content",
+        "href": "#main"
+      },
+      {
+        "text": "S M S.HANDYMANSERVICES",
+        "href": "#main"
+      },
+      {
+        "text": "What needs doing?",
+        "href": "#services"
+      },
+      {
+        "text": "Customer feedback",
+        "href": "#reviews"
+      },
+      {
+        "text": "↗ 07725 999370",
+        "href": "tel:+447725999370"
+      },
+      {
+        "text": "Call Steve about your job ↗",
+        "href": "tel:+447725999370"
+      },
+      {
+        "text": "Explore the services ↓",
+        "href": "#services"
+      },
+      {
+        "text": "20customer reviews onDerbyshire Trusted Trader↓",
+        "href": "#reviews"
+      },
+      {
+        "text": "INDOOR JOBS ↓",
+        "href": "#indoor"
+      },
+      {
+        "text": "OUTDOOR PROJECTS ↓",
+        "href": "#outdoor"
+      },
+      {
+        "text": "WHAT CUSTOMERS SAY ↓",
+        "href": "#reviews"
+      },
+      {
+        "text": "Read all customer feedback ↗",
+        "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=71418"
+      },
+      {
+        "text": "07725 999370 ↗",
+        "href": "tel:+447725999370"
+      },
+      {
+        "text": "[REDACTED_EMAIL] ↗",
+        "href": "mailto:[REDACTED_EMAIL]"
+      },
+      {
+        "text": "Stephen Shipp on LinkedIn ↗",
+        "href": "https://uk.linkedin.com/in/stephen-shipp-76154043"
+      },
+      {
+        "text": "See Grassmoor on the map ↗",
+        "href": "https://www.google.com/maps/search/?api=1&query=Grassmoor%2C%20Chesterfield"
+      },
+      {
+        "text": "Back to top ↑",
+        "href": "#main"
+      }
+    ],
+    "h1": {
+      "x": 20,
+      "y": 146,
+      "width": 350,
+      "height": 131.8125,
+      "top": 146,
+      "right": 370,
+      "bottom": 277.8125,
+      "left": 20
+    },
+    "heroCTA": {
+      "x": 20,
+      "y": 395.0625,
+      "width": 350,
+      "height": 55,
+      "top": 395.0625,
+      "right": 370,
+      "bottom": 450.0625,
+      "left": 20
+    },
+    "errors": [],
+    "anchorReached": true,
+    "backTopReached": true
+  }
+}
